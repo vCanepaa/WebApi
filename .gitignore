@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/appsettings.json
+/appsettings.Development.json
+/DataBase/migrations/V3__Create_Table_Books.sql
+/DataBase/migrations/V1__Create_Table_Person.sql
+/DataBase/dataset/V4__Populate_Table_Books.sql
+/DataBase/dataset/V2__Populate_Table_Person.sql
+/Properties/launchSettings.json
